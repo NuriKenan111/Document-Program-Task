@@ -1,0 +1,15 @@
+/Users/kenan/Desktop/Document/Task/bin/Debug/net7.0/Task
+/Users/kenan/Desktop/Document/Task/bin/Debug/net7.0/Task.deps.json
+/Users/kenan/Desktop/Document/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/kenan/Desktop/Document/Task/bin/Debug/net7.0/Task.dll
+/Users/kenan/Desktop/Document/Task/bin/Debug/net7.0/Task.pdb
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.dll
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.pdb
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/kenan/Desktop/Document/Task/obj/Debug/net7.0/ref/Task.dll
